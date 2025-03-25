@@ -1,7 +1,6 @@
 # Algorithms of Choice
 This repository contains implementations of decision-making algorithms designed to solve multi-criteria problems. These methods are widely applied in fields such as operations research, economics, project management, and decision theory. The code aims to help users understand and implement these algorithms in practical scenarios.
 
----
 
 ## Implemented Algorithms
 
@@ -20,7 +19,6 @@ This repository contains implementations of decision-making algorithms designed 
 5. **Ranking Method**
   A technique for assigning relative ranks to alternatives by comparing their performance against various criteria.
 
----
 
 ## How to Use
 
@@ -36,4 +34,3 @@ This repository contains implementations of decision-making algorithms designed 
 ## Contributions
   Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 
----
