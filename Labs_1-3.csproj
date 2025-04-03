@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Labs_1_3</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resources\images\cross_icon.png" />
+    <None Remove="resources\images\minus_icon.png" />
+    <None Remove="resources\images\plus_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\images\cross_icon.png" />
+    <Resource Include="resources\images\minus_icon.png" />
+    <Resource Include="resources\images\plus_icon.png" />
+  </ItemGroup>
+
+</Project>
